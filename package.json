@@ -1,0 +1,11 @@
+{
+  "name": "201608blog",
+  "version": "1.0.0",
+  "description": "1. 创建一个空文件夹\r 2. 创建README.md文件，告诉别人\r 3. 创建gitignore文件\r ```\r node_modules\r lib\r .idea\r ```\r 4. 配置初始化文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

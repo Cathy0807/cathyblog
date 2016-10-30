@@ -1,0 +1,18 @@
+{
+  "name": "201608blog",
+  "description": "'",
+  "main": "index.js",
+  "authors": [
+    "Cathy0807 <dujingqiu@yeah.net>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ]
+}
