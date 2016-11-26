@@ -1,11 +1,20 @@
 {
   "name": "201608blog",
   "version": "1.0.0",
-  "description": "1. 创建一个空文件夹\r 2. 创建README.md文件，告诉别人\r 3. 创建gitignore文件\r ```\r node_modules\r lib\r .idea\r ```\r 4. 配置初始化文件",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect-mongo": "^1.3.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5"
+  },
+  "devDependencies": {}
 }

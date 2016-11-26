@@ -1,18 +1,18 @@
-老师项目地址 https://github.com/zhufengnodejs/1608blog
+## 项目功能
+利用Node.js/mongodb/bootstrap等搭建的一个简单的具有多人注册、登录、发表文章、登出功能的博客。
 
-## 初始化项目
-1. 创建一个空文件夹
-2. 创建README.md文件，告诉别人项目是干啥用的，怎么用
-3. 创建gitignore文件
+## 安装模块
+项目目录文件夹下执行
 ```
-node_modules
-lib
-.idea
+npm install
 ```
-4. 初始化项目配置文件
+## 运行项目
 ```
-npm init -y
+npm start
 ```
-5. 创建bower配置文件bower.json
-   创建bower安装配置文件.bowerrc  即bower安装到哪里
-6. 初始化git仓库
+## 浏览器打开
+```
+http://localhost:55852
+```
+
+
